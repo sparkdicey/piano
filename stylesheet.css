@@ -1,0 +1,110 @@
+body{
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+}
+
+button{
+    font-size: 2rem;
+    outline: none;
+}
+
+span{
+    position: relative;
+    top: 110px;
+}
+
+h6{
+    color: rgb(142, 240, 240);
+    font-size: 1rem;
+}
+
+.div1{
+    padding-top: 40;
+    padding-bottom: 40;
+    width: 920px;
+    border: solid;
+    display: inline-block;
+    margin-top: 150px;
+    padding: 40px 0 40px 0;
+    position: relative;
+}
+ 
+.low-btn{
+    border-radius: 0 0 10px 10px;
+    border-right: none;
+    background-color: white;
+    width: 90px;
+    height: 300px;
+    margin: 0;
+    display: inline;
+}
+.black-btn{
+    background-color: black;
+    width: 50px;
+    height: 165px;
+    position: absolute;
+}
+
+.last-btn{
+    border-radius: 0 0 15px 15px;
+    background-color: white;
+    width: 90px;
+    height: 300px;
+    display: inline;
+}
+
+.last-black-btn{
+    background-color: black;
+    width: 25px;
+    height: 165px;
+    position: absolute;
+    left: 795px;
+}
+
+.span1{
+    font-size: 32px;
+}
+
+.first{
+    left: 165px;
+}
+.second{
+    left: 255px;
+}
+.third{
+    left: 434px;
+}
+.forth{
+    left: 526px;
+}
+.fifth{
+    left: 615px;
+}
+
+
+/* this is for the media query  */
+/* .div1{
+    width: 500px;
+    border: solid;
+    display: inline-block;
+    margin: 200px 0 200px 0;
+    padding: 50px 0 50px 0;
+    position: relative;
+} */
+/* .black-btn{
+    background-color: black;
+    width: 35px;
+    height: 110px;
+    position: absolute;
+}
+
+.last-btn{
+    background-color: white;
+    width: 50px;
+    height: 140px;
+    margin: 0;
+    display: inline;
+} */
